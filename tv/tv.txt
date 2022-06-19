@@ -85,24 +85,24 @@
 
 //切片线路
 
-{"key": "teyond__qp__艾思影院","name": "艾思影院〔Q〕","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
-{"key": "teyond__qp__看猫影视","name": "看猫影视〔Q〕","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1"              ,"searchable":1,"quickSearch":1},
+{"key": "teyond__qp__艾思影院","name": "艾思影院〔Q〕","type":1,"api":"https://beimux.github.io/C/tv/vod/aiteevod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+{"key": "teyond__qp__看猫影视","name": "看猫影视〔Q〕","type":1,"api":"https://beimux.github.io/C/tv/vod/88vod/","playUrl":"parse:parwix1"              ,"searchable":1,"quickSearch":1},
 
 //综合线路
 
-{"key": "teyond__gf__米来影视","name": "米来影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://42.51.37.161:2346/api.php/iptv/vod/"},
-{"key": "teyond__gf__极酷影视","name": "极酷影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"},
-{"key": "teyond__gf__成成影视","name": "成成影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://8.142.23.147:555/api.php/Chengcheng/vod/"},
-{"key": "teyond__zh__奈非影视","name": "奈非影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.netflixmi.com/api.php/v1.vod"},
-{"key": "teyond__zh__爱酷影视","name": "爱酷影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
-{"key": "teyond__zh__益达影视","name": "益达影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"},
-{"key": "teyond__zh__暖光影视","name": "暖光影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
+{"key": "teyond__gf__米来影视","name": "米来影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/2346vod/"},
+{"key": "teyond__gf__极酷影视","name": "极酷影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/jikuv1.vod"},
+{"key": "teyond__gf__成成影视","name": "成成影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/555vod/"},
+{"key": "teyond__zh__奈非影视","name": "奈非影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/netflixmiv1.vod"},
+{"key": "teyond__zh__爱酷影视","name": "爱酷影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/zhanlangbuv1.vod"},
+{"key": "teyond__zh__益达影视","name": "益达影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/yss6080v1.vod"},
+{"key": "teyond__zh__暖光影视","name": "暖光影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/bl210v1.vod"},
 {"key": "teyond__zh__独播影视","name": "独播影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://35ys.cc/api.php/v1.vod"},
-{"key": "teyond__zh__聚多影视","name": "聚多影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://jdys.weetai.cn/api.php/iptv/vod/"},
-{"key": "teyond__zh__刺猬影视","name": "刺猬影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
-{"key": "teyond__zh__天天视频","name": "天天视频〔Z〕","type": 3,"api": "csp_AppYs"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
-{"key": "teyond__zh__熊猫动漫","name": "熊猫动漫〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"},
-{"key": "teyond__zh__乐云影视","name": "乐云影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.leyun.tv/api.php/v1.vod"}],
+{"key": "teyond__zh__聚多影视","name": "聚多影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/weetaivod/"},
+{"key": "teyond__zh__刺猬影视","name": "刺猬影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/cccvvvvod/"},
+{"key": "teyond__zh__天天视频","name": "天天视频〔Z〕","type": 3,"api": "csp_AppYs"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/qianjuv1.vod"},
+{"key": "teyond__zh__熊猫动漫","name": "熊猫动漫〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/k8aav1.vod"},
+{"key": "teyond__zh__乐云影视","name": "乐云影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/vod/leyunv1.vod"}],
 
 //解析接口
 
