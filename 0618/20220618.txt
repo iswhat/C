@@ -26,7 +26,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+      "ext": "https://beimux.github.io/C/0618/xx/huya.js"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+      "ext": "https://beimux.github.io/C/0618/xx/516-qiumi.js"
     },
     {
       "key": "csp_xpath_A33",
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+      "ext": "https://beimux.github.io/C/0618/xx/mtv"
     },
     {
       "key": "csp_CZSPP",
@@ -92,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b02-lgys.js"
     },
     {
       "key": "csp_GitCafe",
@@ -129,7 +129,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+      "ext": "https://beimux.github.io/C/0618/vod/9e03v1.vod"
     },
     {
       "key": "csp_xpath_网络搜集库112",
@@ -139,7 +139,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-gongreng.json"
     },
     {
       "key": "csp_xpath_网络搜集源03",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
+      "ext": "https://beimux.github.io/C/0618/xx/zxzj.js"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -159,7 +159,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a00-lgyy.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a00-lgyy.js"
     },
     {
       "key": "csp_biubiu_厂长资源-蓝光",
@@ -169,7 +169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a01-czzy.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a01-czzy.js"
     },
     {
       "key": "csp_XBiubiubiubiu_libvio",
@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b14-libvio.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b14-libvio.js"
     },
     {
       "key": "csp_XBiubiubiubiu_cokemv",
@@ -189,7 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b00-coke.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b00-coke.js"
     },
     {
       "key": "csp_XBiubiubiubiu_lezhu",
@@ -199,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b13-lezhu.js"
     },
     {
       "key": "csp_XBiubiubiubiu_555",
@@ -209,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b01-555dy.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b01-555dy.js"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -219,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/b03-ysgc.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b03-ysgc.js"
     },
     {
       "key": "csp_XBiubiubiubiu_city",
@@ -229,7 +229,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
+      "ext": "https://beimux.github.io/C/0618/xb/city.js"
     },
     {
       "key": "csp_XBiubiubiubiu_手机看剧",
@@ -239,7 +239,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b06-sjkj.js"
     },
     {
       "key": "csp_XBiubiubiubiu_口袋影院",
@@ -249,7 +249,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b07-kdys.js"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -259,7 +259,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a10-tgys.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a10-tgys.js"
     },
     {
       "key": "csp_biubiu_瓜皮TV",
@@ -269,7 +269,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a11-gptv.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a11-gptv.js"
     },
     {
       "key": "csp_biubiu_真的卡影院",
@@ -279,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a12-zk.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a12-zk.js"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -289,7 +289,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a13-dmxq.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a13-dmxq.js"
     },
     {
       "key": "csp_biubiu_晗剧",
@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a14-hanju.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a14-hanju.js"
     },
     {
       "key": "csp_biubiu_看片狂人",
@@ -309,7 +309,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.staticaly.com/gh/tvba/b/main/xb/a15-kpkr.js"
+      "ext": "https://beimux.github.io/C/0618/xb/a15-kpkr.js"
     },
     {
       "key": "csp_XBiubiubiubiu_4kan电影网",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b11-4Kkan.js"
+      "ext": "https://beimux.github.io/C/0618/xb/b11-4Kkan.js"
     },
     {
       "key": "csp_XPath_猫群首发",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-bidi.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-bidi.json"
     },
     {
       "key": "csp_xpath_网络搜集库29",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-dadagui.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-dadagui.json"
     },
     {
       "key": "csp_XPathMacFilter_网络搜集源02",
@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/jp"
+      "ext": "https://beimux.github.io/C/0618/xx/jp"
     },
     {
       "key": "csp_xpath_网络搜集库naikan",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/516-naikan.js"
+      "ext": "https://beimux.github.io/C/0618/xx/516-naikan.js"
     },
     {
       "key": "csp_appysv2_爱酷影视",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"
+      "ext": "https://beimux.github.io/C/0618/vod/zhanlangbuv1.vod"
     },
     {
       "key": "csp_xpath_hhys",
@@ -379,7 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
+      "ext": "https://beimux.github.io/C/0618/xx/604-huohuo.js"
     },
     {
       "key": "csp_xpath_网络搜集库kankan",
@@ -389,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/516-wmkankan.js"
+      "ext": "https://beimux.github.io/C/0618/xx/516-wmkankan.js"
     },
     {
       "key": "csp_AppYsV2_美剧范",
@@ -399,7 +399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ttzmz.net/api.php/v1.vod"
+      "ext": "https://beimux.github.io/C/0618/vod/ttzmzv1.vod"
     },
     {
       "key": "csp_xpath_网络搜集库heidong",
@@ -409,7 +409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/505-heidong.js"
+      "ext": "https://beimux.github.io/C/0618/xx/505-heidong.js"
     },
     {
       "key": "csp_xpath_网络搜集源A13",
@@ -419,7 +419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/6dutv.js"
+      "ext": "https://beimux.github.io/C/0618/xx/6dutv.js"
     },
     {
       "key": "csp_xpath_网络搜集库108",
@@ -429,7 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-xiaoxiong.json"
     },
     {
       "key": "csp_xpath_网络搜集库62",
@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-dili.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-dili.json"
     },
     {
       "key": "csp_xpath_网络搜集库80",
@@ -449,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-tuzi.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-tuzi.json"
     },
     {
       "key": "csp_xpath_网络搜集库03",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-yingba.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-yingba.json"
     },
     {
       "key": "csp_XPathMacFilter_网络搜集源01-js",
@@ -469,7 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-vod.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-vod.json"
     },
     {
       "key": "csp_xpath_网络搜集库72",
@@ -479,7 +479,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-dingzidy.json"
+      "ext": "https://beimux.github.io/C/0618/xx/519-dingzidy.json"
     },
     {
       "key": "csp_xpath_网络搜集源21",
@@ -489,7 +489,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/x/raw/branch/main/605-yhdm.js"
+      "ext": "https://beimux.github.io/C/0618/xx/605-yhdm.js"
     },
     {
       "key": "csp_xpath_A32",
@@ -499,7 +499,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/x/raw/branch/main/604-dmd.js"
+      "ext": "https://beimux.github.io/C/0618/xx/604-dmd.js"
     },
     {
       "key": "csp_xpath_网络搜集源22",
@@ -509,7 +509,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/x/raw/branch/main/604-dm84.js"
+      "ext": "https://beimux.github.io/C/0618/xx/604-dm84.js"
     },
     {
       "key": "csp_xpath_网络搜集源23",
@@ -519,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/x/raw/branch/main/604-age.js"
+      "ext": "https://beimux.github.io/C/0618/xx/604-age.js"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -529,7 +529,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"
+      "ext": "https://beimux.github.io/C/0618/xb/d05-fcdm.js"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -539,7 +539,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"
+      "ext": "https://beimux.github.io/C/0618/xb/d02-swxf.js"
     },
     {
       "key": "csp_biubiu_维奇动漫",
@@ -549,7 +549,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
+      "ext": "https://beimux.github.io/C/0618/xb/d03-wqdm.js"
     },
     {
       "key": "push_agent",
@@ -568,7 +568,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iZWltdXguZ2l0aHViLmlvL0MvMDYxOC90djg4"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iZWltdXguZ2l0aHViLmlvL0MvMDYxOC9saXZlL3R2ODg="
           ]
         }
       ]
