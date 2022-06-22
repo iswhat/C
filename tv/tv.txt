@@ -10,7 +10,7 @@
 
 //xpath线路
 
-{"key": "teyond__xp__极品影视","name": "极品影视〔X〕","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://beimux.github.io/C/tv/xpath/极品影视.json"},
+{"key": "teyond__xp__极品影视","name": "极品影视〔X〕","type": 3,"api": "csp_XPathMac" ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://beimux.github.io/C/tv/xpath/极品影视.json"},
 {"key": "teyond__xp__动漫巴士","name": "动漫巴士〔X〕","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://beimux.github.io/C/tv/xpath/动漫巴士.json"},
 {"key": "teyond__xp__AGE动漫" ,"name": "AGE动漫〔X〕 ","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://beimux.github.io/C/tv/xpath/AGE动漫.json"},
 {"key": "teyond__xp__影视工厂","name": "影视工厂〔X〕","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://beimux.github.io/C/tv/xpath/影视工厂.json"},
