@@ -1,4 +1,7 @@
-{"sites": [
+{
+"spider":"https://iswhat.github.io/catLocal/t3/doraAmen.jar",
+
+"sites": [
 
 //爬虫线路
 
