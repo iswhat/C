@@ -2,8 +2,8 @@
 
 //爬虫线路
 
-{"key": "teyond__pc__首页推荐","name": "首页推荐〔P〕","type": 3,"api": "csp_Kunyu77"       ,"searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__pc__苹果影视","name": "苹果影视〔P〕","type": 3,"api": "csp_LiteApple"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__pc__首页推荐","name": "首页推荐〔P〕","type": 3,"api": "csp_Kunyu77"       ,"searchable": 1,"quickSearch": 1,"filterable":1},
+//{"key": "teyond__pc__苹果影视","name": "苹果影视〔P〕","type": 3,"api": "csp_LiteApple"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__pc__焦炭影视","name": "焦炭影视〔P〕","type": 3,"api": "csp_Cokemv"        ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__pc__在线之家","name": "在线之家〔P〕","type": 3,"api": "csp_Zxzj"          ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__pc__官方资源","name": "官方资源〔P〕","type": 3,"api": "csp_SP360"         ,"searchable": 1,"quickSearch": 1,"filterable": 1},
