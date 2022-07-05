@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> https://beimux.github.io/C/TVBox/bc.json
 
 {
-"spider":"https://beimux.github.io/C/TVBox/0701.jar",
+"spider":"https://beimux.github.io/C/TVBox/qiaoji66zz.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9iZWltdXguZ2l0aHViLmlvL0MvVFZCb3gvdHYvY2hhbm5lbC50eHQ="]}]}],
 
 
