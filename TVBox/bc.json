@@ -15,7 +15,7 @@
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_TVB云播","name":"🥒TVB云播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://beimux.github.io/C/TVBox/MaooXB/TVB云播.json"},
+//{"key":"csp_biubiu_TVB云播","name":"🥒TVB云播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://beimux.github.io/C/TVBox/MaooXB/TVB云播.json"},
 {"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://beimux.github.io/C/TVBox/MaooXP/tvci.json"},
 {"key":"csp_Buka","name":"🐼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
